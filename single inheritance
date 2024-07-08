@@ -7,6 +7,7 @@ class Test
         d1.getFather("rrr",200000);
         d1.showFather();
         d1.getDaughter("ccc",300000);
+        d1.showDaughter();
     }
 }
 
@@ -42,7 +43,12 @@ class Father
              }
          
      }
-     
-    OUTPUT:
-    Father name=rrr
+OUTPUT:
+Father name=rrr
 Father property=200000
+Daughter name=ccc
+Daughter property=300000
+Daughter total proprty=500000
+    
+         
+   
