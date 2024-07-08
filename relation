@@ -32,3 +32,12 @@ class Relation
     }
 }
    
+OUTPUT:
+----------------------------------
+STUDENT REPORT
+-------------------------------------
+Admno=111
+name=sss
+maths=76
+physics=85
+chemistry=67
