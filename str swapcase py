@@ -1,0 +1,23 @@
+str=input("")
+print(str.swapcase())
+
+OUTPUT:
+Sample Input 0
+
+Java Language
+Sample Output 0
+
+jAVA lANGUAGE
+Sample Input 1
+
+pYtHOn Is SIMPLE language
+Sample Output 1
+
+PyThoN iS simple LANGUAGE
+Submissions: 485
+Max Score: 0
+Difficulty: Medium
+Rate This Challenge:
+
+    
+
