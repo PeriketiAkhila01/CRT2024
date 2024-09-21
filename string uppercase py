@@ -1,0 +1,15 @@
+str=input("")
+print(str.upper())
+OUTPUT:
+Sample Input 0
+
+good
+Sample Output 0
+
+GOOD
+Sample Input 1
+
+Java Language
+Sample Output 1
+
+JAVA LANGUAGE
