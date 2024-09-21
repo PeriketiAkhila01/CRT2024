@@ -1,0 +1,22 @@
+def comparestring(string1,string2):
+    if string1==string2:
+        return"Strings are same"
+    else:
+        return"Strings are not same"
+string1=input("")
+string2=input("")
+result=comparestring(string1,string2)
+print(result)
+
+
+OUTPUT:
+Sample Output 0
+
+Strings are same
+Sample Input 1
+
+python
+Java
+Sample Output 1
+
+Strings are not same
